@@ -11,7 +11,7 @@ This is a simple starter template for small projects using **Vite** and **Tailwi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mvalentsev/vite-tailwind.git
    cd vite-tailwind
    ```
 
