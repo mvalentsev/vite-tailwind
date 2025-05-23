@@ -35,8 +35,6 @@ This is a simple starter template for small projects using **Vite** and **Tailwi
 ```
 index.html
 package.json
-pnpm-lock.yaml
-pnpm-workspace.yaml
 vite.config.js
 src/
     app.js
