@@ -15,19 +15,19 @@ This is a simple starter template for small projects using **Vite** and **Tailwi
    cd vite-tailwind
    ```
 
-2. Install dependencies using `pnpm`:
+2. Install dependencies using `bun`:
    ```bash
-   pnpm install
+   bun install
    ```
 
 3. Start the development server:
    ```bash
-   pnpm dev
+   bun dev
    ```
 
 4. Build for production:
    ```bash
-   pnpm build
+   bun run build
    ```
 
 ## Project Structure
